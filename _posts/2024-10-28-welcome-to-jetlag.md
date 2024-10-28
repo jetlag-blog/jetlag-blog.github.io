@@ -2,7 +2,7 @@
 title: Welcome to Jetlag!
 description: Nice to meet you. Why don't you let me show you around?
 author:
-date: 2024-10-25 20:00:00 +0200
+date: 2024-10-28 18:00:00 +0200
 categories: [Update]
 tags: []
 pin: true
