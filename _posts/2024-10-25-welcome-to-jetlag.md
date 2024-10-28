@@ -33,7 +33,7 @@ Just below Home, you'll find [Categories](/categories). In there you'll find pos
 |Gear|Posts ahead of my journey where I talk about what and how I packed. This may make me look woefully underprepared but rest assured, that's exactly the case.|
 |Update|Posts about major updates and changes to the site, maintenance notices, milestones and other news that I deem important. This may include a changelog if appropriate.|
 
-Categories can have subcategories. As an example, the category "Diary" has subcategories for each place I've been to and wrote about. This way you have all the posts about a specific destination neatly organised. As an example, [here](/categories/japan-2024) you find all the posts about my trip to Japan in 2024.  
+Categories can have subcategories. As an example, the category "Diary" has subcategories for each place I've been to and wrote about. This way you have all the posts about a specific destination neatly organised. As an example, [here](/categories) you find all the posts about my trip to Japan in 2024.  
 
 **Tags**  
 Every Diary type post has tags associated with it. The [Tags](/tags) section displays all the different tags to you, so you can filter for posts about specific topics and dates. I've tried to have a system here as well and defined a set of overarching groups, for each of which a minimum of one tag will be set.  
